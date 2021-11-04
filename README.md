@@ -1,2 +1,3 @@
 # Camera-Based-Lie-Detector
-The report is in `Camera_based_non_contact_lie_detector.pdf`
+`Camera_based_non_contact_lie_detector.pdf` is the final report.
+Detailed source codes are in `src`. It contains codes for rPPG pulse estimation, blink estimation, video filming, and machine learning.
